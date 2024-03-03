@@ -1,2 +1,2 @@
-const SERVER_URL = "http://localhost:3010"
+const SERVER_URL = "https://project-hub-server.onrender.com"
 export default SERVER_URL
